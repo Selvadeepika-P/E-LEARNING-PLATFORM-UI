@@ -13,6 +13,9 @@ This project is a front-end design for an E-Learning platform that provides a st
 
 
 #output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/89868cfe-bdd5-48a0-a5a5-ad9cd4ac7a2f" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0e3718db-eb15-4923-a64d-466d6afa060a" />
 
 
 
